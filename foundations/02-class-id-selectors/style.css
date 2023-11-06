@@ -1,0 +1,20 @@
+p, .palt {
+    background-color: #db8c96;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.fontsize {
+    font-size: 24px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#div2 {
+    background-color: rgb(95, 192, 95);
+    font-weight: 700;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
